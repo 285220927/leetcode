@@ -3,3 +3,4 @@ leetcode.iml
 spider.py
 test.py
 .idea
+.gitignore
